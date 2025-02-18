@@ -1,4 +1,7 @@
-## Hi there 👋
+## Ooops, looks like you stumbled into my Github page
+
+As you can see, things are still kind of a mess here. I'm still organizing my Github page since many of the things I've been doing are in private repositories in my [Gitlab account](https://gitlab.com/LeonardoBombardelli/). If, for some reason, you want to reach out to me, feel free to send me an email to the address linked in this profile!
+
 
 <!--
 **LeonardoBombardelli/LeonardoBombardelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
